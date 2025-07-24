@@ -10,3 +10,4 @@ for _ in range(N):
 
 for x,y in sorted(points):
     print(x, y)
+
