@@ -7,3 +7,4 @@ words.sort(key=lambda x: (len(x), x))
 print(words)
 for word in words:
     print(word)
+
